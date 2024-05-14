@@ -1,5 +1,5 @@
 # main.py
-from containerimage import ImageService
+from pyimage import ImageService
 
 if __name__ == "__main__":
     # Create an instance of ImageService

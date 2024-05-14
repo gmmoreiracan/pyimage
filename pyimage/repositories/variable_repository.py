@@ -1,5 +1,5 @@
-from containerimage.repositories.repository import Repository
-from containerimage.models.variable import EnvironmentVariable
+from pyimage.repositories.repository import Repository
+from pyimage.models.variable import EnvironmentVariable
 
 
 class EnvironmentVariableRepository(Repository):

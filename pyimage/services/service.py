@@ -1,8 +1,8 @@
 # services/image_service.py
-from containerimage.repositories.image_repository import ImageRepository
-from containerimage.repositories.layer_repository import LayerRepository
-from containerimage.repositories.variable_repository import EnvironmentVariableRepository
-from containerimage.schemas.image_schema import ImageSchema
+from pyimage.repositories.image_repository import ImageRepository
+from pyimage.repositories.layer_repository import LayerRepository
+from pyimage.repositories.variable_repository import EnvironmentVariableRepository
+from pyimage.schemas.image_schema import ImageSchema
 
 
 class ImageService:

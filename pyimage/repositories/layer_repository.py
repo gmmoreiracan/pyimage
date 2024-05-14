@@ -1,5 +1,5 @@
-from containerimage.repositories.repository import Repository
-from containerimage.models.layer import Layer
+from pyimage.repositories.repository import Repository
+from pyimage.models.layer import Layer
 
 
 class LayerRepository(Repository):

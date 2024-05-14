@@ -1,4 +1,4 @@
-from containerimage.database.database import Database
+from pyimage.database.database import Database
 
 
 class Repository:
