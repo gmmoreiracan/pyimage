@@ -4,27 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75e82f91-29e2-4ba0-84a1-9f42ee5978fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/containerimage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containerimage/database/database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containerimage/models/image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containerimage/models/layer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containerimage/models/variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containerimage/repositories/image_repository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containerimage/repositories/layer_repository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containerimage/repositories/repository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containerimage/repositories/variable_repository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containerimage/schemas/image_config_schema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containerimage/schemas/image_schema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containerimage/schemas/manifest_schema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containerimage/services/artifactory_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/containerimage/services/service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="75e82f91-29e2-4ba0-84a1-9f42ee5978fb" name="Changes" comment="New">
+      <change beforePath="$PROJECT_DIR$/containerimage/models/image.py" beforeDir="false" afterPath="$PROJECT_DIR$/containerimage/models/image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/containerimage/models/layer.py" beforeDir="false" afterPath="$PROJECT_DIR$/containerimage/models/layer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/containerimage/services/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/containerimage/services/service.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +44,8 @@
     "Python.image_schema.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "run.code.analysis.last.selected.profile": "aDefault"
   }
 }]]></component>
   <component name="RunManager">
@@ -104,7 +88,47 @@
       <option name="presentableId" value="Default" />
       <updated>1715555636322</updated>
     </task>
+    <task id="LOCAL-00001" summary="New">
+      <option name="closed" value="true" />
+      <created>1715605468387</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715605468387</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="35661519-52d3-4a37-bace-3a2296b417b5" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="35661519-52d3-4a37-bace-3a2296b417b5">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New" />
+    <option name="LAST_COMMIT_MESSAGE" value="New" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -18,8 +18,8 @@ class ImageService:
             # Save image to repository
             image_stub = dict(image_schema)
 
-            image_stub.pop("layers",None)
-            image_stub.pop("variables",None)
+            image_stub.pop("layers", None)
+            image_stub.pop("variables", None)
 
             image_id = self.image_repo.create_image(image_stub)
 
